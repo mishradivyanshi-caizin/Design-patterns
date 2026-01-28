@@ -1,4 +1,4 @@
-package org.example;
+package org.example.simuduck;
 
 public abstract class Duck {
 
